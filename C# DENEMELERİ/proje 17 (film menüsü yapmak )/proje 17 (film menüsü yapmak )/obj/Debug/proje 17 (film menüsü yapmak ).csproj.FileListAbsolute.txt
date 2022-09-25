@@ -1,0 +1,11 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 17 (film menüsü yapmak )\proje 17 (film menüsü yapmak )\bin\Debug\proje 17 (film menüsü yapmak ).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 17 (film menüsü yapmak )\proje 17 (film menüsü yapmak )\bin\Debug\proje 17 (film menüsü yapmak ).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 17 (film menüsü yapmak )\proje 17 (film menüsü yapmak )\bin\Debug\proje 17 (film menüsü yapmak ).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 17 (film menüsü yapmak )\proje 17 (film menüsü yapmak )\obj\Debug\proje 17 (film menüsü yapmak ).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 17 (film menüsü yapmak )\proje 17 (film menüsü yapmak )\obj\Debug\proje 17 (film menüsü yapmak ).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 17 (film menüsü yapmak )\proje 17 (film menüsü yapmak )\obj\Debug\proje_17__film_menüsü_yapmak__.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 17 (film menüsü yapmak )\proje 17 (film menüsü yapmak )\obj\Debug\proje_17__film_menüsü_yapmak__.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 17 (film menüsü yapmak )\proje 17 (film menüsü yapmak )\obj\Debug\proje 17 (film menüsü yapmak ).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 17 (film menüsü yapmak )\proje 17 (film menüsü yapmak )\obj\Debug\proje 17 (film menüsü yapmak ).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 17 (film menüsü yapmak )\proje 17 (film menüsü yapmak )\obj\Debug\proje 17 (film menüsü yapmak ).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 17 (film menüsü yapmak )\proje 17 (film menüsü yapmak )\obj\Debug\proje 17 (film menüsü yapmak ).pdb

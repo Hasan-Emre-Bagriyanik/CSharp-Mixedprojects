@@ -1,0 +1,11 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 20 (kronometre)\proje 20 (kronometre)\bin\Debug\proje 20 (kronometre).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 20 (kronometre)\proje 20 (kronometre)\bin\Debug\proje 20 (kronometre).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 20 (kronometre)\proje 20 (kronometre)\bin\Debug\proje 20 (kronometre).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 20 (kronometre)\proje 20 (kronometre)\obj\Debug\proje 20 (kronometre).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 20 (kronometre)\proje 20 (kronometre)\obj\Debug\proje 20 (kronometre).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 20 (kronometre)\proje 20 (kronometre)\obj\Debug\proje_20__kronometre_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 20 (kronometre)\proje 20 (kronometre)\obj\Debug\proje_20__kronometre_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 20 (kronometre)\proje 20 (kronometre)\obj\Debug\proje 20 (kronometre).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 20 (kronometre)\proje 20 (kronometre)\obj\Debug\proje 20 (kronometre).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 20 (kronometre)\proje 20 (kronometre)\obj\Debug\proje 20 (kronometre).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 20 (kronometre)\proje 20 (kronometre)\obj\Debug\proje 20 (kronometre).pdb

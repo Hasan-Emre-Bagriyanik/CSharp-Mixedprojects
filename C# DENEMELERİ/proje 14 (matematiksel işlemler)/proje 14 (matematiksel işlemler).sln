@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proje 14 (matematiksel işlemler)", "proje 14 (matematiksel işlemler)\proje 14 (matematiksel işlemler).csproj", "{8FAD41B5-E33F-4A22-A455-1F3B3CBC3D89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FAD41B5-E33F-4A22-A455-1F3B3CBC3D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAD41B5-E33F-4A22-A455-1F3B3CBC3D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAD41B5-E33F-4A22-A455-1F3B3CBC3D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAD41B5-E33F-4A22-A455-1F3B3CBC3D89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D51EC8D0-15A5-4D56-BD4C-CF6E5B45A3E4}
+	EndGlobalSection
+EndGlobal

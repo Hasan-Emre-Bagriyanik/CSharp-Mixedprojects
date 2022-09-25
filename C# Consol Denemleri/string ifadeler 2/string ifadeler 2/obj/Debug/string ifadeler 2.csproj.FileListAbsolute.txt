@@ -1,0 +1,8 @@
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\string ifadeler 2\string ifadeler 2\bin\Debug\string ifadeler 2.exe.config
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\string ifadeler 2\string ifadeler 2\bin\Debug\string ifadeler 2.exe
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\string ifadeler 2\string ifadeler 2\bin\Debug\string ifadeler 2.pdb
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\string ifadeler 2\string ifadeler 2\obj\Debug\string ifadeler 2.csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\string ifadeler 2\string ifadeler 2\obj\Debug\string ifadeler 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\string ifadeler 2\string ifadeler 2\obj\Debug\string ifadeler 2.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\string ifadeler 2\string ifadeler 2\obj\Debug\string ifadeler 2.exe
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\string ifadeler 2\string ifadeler 2\obj\Debug\string ifadeler 2.pdb

@@ -1,0 +1,16 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 8 (müzik çalma işlemi)\proje 8 (müzik çalma işlemi)\bin\Debug\proje 8 (müzik çalma işlemi).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 8 (müzik çalma işlemi)\proje 8 (müzik çalma işlemi)\bin\Debug\proje 8 (müzik çalma işlemi).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 8 (müzik çalma işlemi)\proje 8 (müzik çalma işlemi)\bin\Debug\proje 8 (müzik çalma işlemi).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 8 (müzik çalma işlemi)\proje 8 (müzik çalma işlemi)\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 8 (müzik çalma işlemi)\proje 8 (müzik çalma işlemi)\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 8 (müzik çalma işlemi)\proje 8 (müzik çalma işlemi)\obj\Debug\proje 8 (müzik çalma işlemi).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 8 (müzik çalma işlemi)\proje 8 (müzik çalma işlemi)\obj\Debug\proje 8 (müzik çalma işlemi).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 8 (müzik çalma işlemi)\proje 8 (müzik çalma işlemi)\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 8 (müzik çalma işlemi)\proje 8 (müzik çalma işlemi)\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 8 (müzik çalma işlemi)\proje 8 (müzik çalma işlemi)\obj\Debug\proje 8 (müzik çalma işlemi).csproj.ResolveComReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 8 (müzik çalma işlemi)\proje 8 (müzik çalma işlemi)\obj\Debug\proje_8__müzik_çalma_işlemi_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 8 (müzik çalma işlemi)\proje 8 (müzik çalma işlemi)\obj\Debug\proje_8__müzik_çalma_işlemi_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 8 (müzik çalma işlemi)\proje 8 (müzik çalma işlemi)\obj\Debug\proje 8 (müzik çalma işlemi).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 8 (müzik çalma işlemi)\proje 8 (müzik çalma işlemi)\obj\Debug\proje 8 (müzik çalma işlemi).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 8 (müzik çalma işlemi)\proje 8 (müzik çalma işlemi)\obj\Debug\proje 8 (müzik çalma işlemi).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 8 (müzik çalma işlemi)\proje 8 (müzik çalma işlemi)\obj\Debug\proje 8 (müzik çalma işlemi).pdb

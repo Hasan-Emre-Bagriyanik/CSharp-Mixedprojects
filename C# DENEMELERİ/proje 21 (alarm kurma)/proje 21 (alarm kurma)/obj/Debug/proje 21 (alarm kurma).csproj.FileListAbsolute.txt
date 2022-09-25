@@ -1,0 +1,16 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 21 (alarm kurma)\proje 21 (alarm kurma)\bin\Debug\proje 21 (alarm kurma).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 21 (alarm kurma)\proje 21 (alarm kurma)\bin\Debug\proje 21 (alarm kurma).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 21 (alarm kurma)\proje 21 (alarm kurma)\bin\Debug\proje 21 (alarm kurma).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 21 (alarm kurma)\proje 21 (alarm kurma)\obj\Debug\proje 21 (alarm kurma).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 21 (alarm kurma)\proje 21 (alarm kurma)\obj\Debug\proje 21 (alarm kurma).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 21 (alarm kurma)\proje 21 (alarm kurma)\obj\Debug\proje_21__alarm_kurma_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 21 (alarm kurma)\proje 21 (alarm kurma)\obj\Debug\proje_21__alarm_kurma_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 21 (alarm kurma)\proje 21 (alarm kurma)\obj\Debug\proje 21 (alarm kurma).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 21 (alarm kurma)\proje 21 (alarm kurma)\obj\Debug\proje 21 (alarm kurma).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 21 (alarm kurma)\proje 21 (alarm kurma)\obj\Debug\proje 21 (alarm kurma).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 21 (alarm kurma)\proje 21 (alarm kurma)\obj\Debug\proje 21 (alarm kurma).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 21 (alarm kurma)\proje 21 (alarm kurma)\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 21 (alarm kurma)\proje 21 (alarm kurma)\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 21 (alarm kurma)\proje 21 (alarm kurma)\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 21 (alarm kurma)\proje 21 (alarm kurma)\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 21 (alarm kurma)\proje 21 (alarm kurma)\obj\Debug\proje 21 (alarm kurma).csproj.ResolveComReference.cache

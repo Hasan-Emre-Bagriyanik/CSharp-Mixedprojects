@@ -1,0 +1,11 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 11 (double ile hesap makinası)\proje 11 (double ile hesap makinası)\bin\Debug\proje 11 (double ile hesap makinası).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 11 (double ile hesap makinası)\proje 11 (double ile hesap makinası)\bin\Debug\proje 11 (double ile hesap makinası).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 11 (double ile hesap makinası)\proje 11 (double ile hesap makinası)\bin\Debug\proje 11 (double ile hesap makinası).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 11 (double ile hesap makinası)\proje 11 (double ile hesap makinası)\obj\Debug\proje 11 (double ile hesap makinası).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 11 (double ile hesap makinası)\proje 11 (double ile hesap makinası)\obj\Debug\proje 11 (double ile hesap makinası).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 11 (double ile hesap makinası)\proje 11 (double ile hesap makinası)\obj\Debug\proje_11__double_ile_hesap_makinası_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 11 (double ile hesap makinası)\proje 11 (double ile hesap makinası)\obj\Debug\proje_11__double_ile_hesap_makinası_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 11 (double ile hesap makinası)\proje 11 (double ile hesap makinası)\obj\Debug\proje 11 (double ile hesap makinası).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 11 (double ile hesap makinası)\proje 11 (double ile hesap makinası)\obj\Debug\proje 11 (double ile hesap makinası).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 11 (double ile hesap makinası)\proje 11 (double ile hesap makinası)\obj\Debug\proje 11 (double ile hesap makinası).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 11 (double ile hesap makinası)\proje 11 (double ile hesap makinası)\obj\Debug\proje 11 (double ile hesap makinası).pdb

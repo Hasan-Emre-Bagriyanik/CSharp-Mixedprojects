@@ -1,0 +1,11 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 19 (dijital saat )\proje 19 (dijital saat )\bin\Debug\proje 19 (dijital saat ).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 19 (dijital saat )\proje 19 (dijital saat )\bin\Debug\proje 19 (dijital saat ).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 19 (dijital saat )\proje 19 (dijital saat )\bin\Debug\proje 19 (dijital saat ).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 19 (dijital saat )\proje 19 (dijital saat )\obj\Debug\proje 19 (dijital saat ).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 19 (dijital saat )\proje 19 (dijital saat )\obj\Debug\proje 19 (dijital saat ).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 19 (dijital saat )\proje 19 (dijital saat )\obj\Debug\proje_19__dijital_saat__.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 19 (dijital saat )\proje 19 (dijital saat )\obj\Debug\proje_19__dijital_saat__.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 19 (dijital saat )\proje 19 (dijital saat )\obj\Debug\proje 19 (dijital saat ).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 19 (dijital saat )\proje 19 (dijital saat )\obj\Debug\proje 19 (dijital saat ).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 19 (dijital saat )\proje 19 (dijital saat )\obj\Debug\proje 19 (dijital saat ).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 19 (dijital saat )\proje 19 (dijital saat )\obj\Debug\proje 19 (dijital saat ).pdb

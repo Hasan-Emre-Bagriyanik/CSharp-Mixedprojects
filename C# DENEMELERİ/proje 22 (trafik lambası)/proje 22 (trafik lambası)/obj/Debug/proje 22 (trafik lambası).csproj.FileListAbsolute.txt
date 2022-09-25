@@ -1,0 +1,11 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 22 (trafik lambası)\proje 22 (trafik lambası)\bin\Debug\proje 22 (trafik lambası).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 22 (trafik lambası)\proje 22 (trafik lambası)\bin\Debug\proje 22 (trafik lambası).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 22 (trafik lambası)\proje 22 (trafik lambası)\bin\Debug\proje 22 (trafik lambası).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 22 (trafik lambası)\proje 22 (trafik lambası)\obj\Debug\proje 22 (trafik lambası).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 22 (trafik lambası)\proje 22 (trafik lambası)\obj\Debug\proje 22 (trafik lambası).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 22 (trafik lambası)\proje 22 (trafik lambası)\obj\Debug\proje_22__trafik_lambası_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 22 (trafik lambası)\proje 22 (trafik lambası)\obj\Debug\proje_22__trafik_lambası_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 22 (trafik lambası)\proje 22 (trafik lambası)\obj\Debug\proje 22 (trafik lambası).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 22 (trafik lambası)\proje 22 (trafik lambası)\obj\Debug\proje 22 (trafik lambası).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 22 (trafik lambası)\proje 22 (trafik lambası)\obj\Debug\proje 22 (trafik lambası).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 22 (trafik lambası)\proje 22 (trafik lambası)\obj\Debug\proje 22 (trafik lambası).pdb

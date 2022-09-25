@@ -1,0 +1,11 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 14 (matematiksel işlemler)\proje 14 (matematiksel işlemler)\bin\Debug\proje 14 (matematiksel işlemler).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 14 (matematiksel işlemler)\proje 14 (matematiksel işlemler)\bin\Debug\proje 14 (matematiksel işlemler).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 14 (matematiksel işlemler)\proje 14 (matematiksel işlemler)\bin\Debug\proje 14 (matematiksel işlemler).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 14 (matematiksel işlemler)\proje 14 (matematiksel işlemler)\obj\Debug\proje 14 (matematiksel işlemler).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 14 (matematiksel işlemler)\proje 14 (matematiksel işlemler)\obj\Debug\proje 14 (matematiksel işlemler).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 14 (matematiksel işlemler)\proje 14 (matematiksel işlemler)\obj\Debug\proje_14__matematiksel_işlemler_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 14 (matematiksel işlemler)\proje 14 (matematiksel işlemler)\obj\Debug\proje_14__matematiksel_işlemler_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 14 (matematiksel işlemler)\proje 14 (matematiksel işlemler)\obj\Debug\proje 14 (matematiksel işlemler).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 14 (matematiksel işlemler)\proje 14 (matematiksel işlemler)\obj\Debug\proje 14 (matematiksel işlemler).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 14 (matematiksel işlemler)\proje 14 (matematiksel işlemler)\obj\Debug\proje 14 (matematiksel işlemler).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 14 (matematiksel işlemler)\proje 14 (matematiksel işlemler)\obj\Debug\proje 14 (matematiksel işlemler).pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consola giris", "consola giris\consola giris.csproj", "{D98C885B-041E-4D18-ADA5-4FB3CB00AED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D98C885B-041E-4D18-ADA5-4FB3CB00AED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98C885B-041E-4D18-ADA5-4FB3CB00AED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98C885B-041E-4D18-ADA5-4FB3CB00AED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98C885B-041E-4D18-ADA5-4FB3CB00AED8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61257C3B-2B8C-461C-B25B-11E8F811DA6D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 12 (fibonacci sayıları)\proje 12 (fibonacci sayıları)\bin\Debug\proje 12 (fibonacci sayıları).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 12 (fibonacci sayıları)\proje 12 (fibonacci sayıları)\bin\Debug\proje 12 (fibonacci sayıları).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 12 (fibonacci sayıları)\proje 12 (fibonacci sayıları)\bin\Debug\proje 12 (fibonacci sayıları).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 12 (fibonacci sayıları)\proje 12 (fibonacci sayıları)\obj\Debug\proje 12 (fibonacci sayıları).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 12 (fibonacci sayıları)\proje 12 (fibonacci sayıları)\obj\Debug\proje 12 (fibonacci sayıları).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 12 (fibonacci sayıları)\proje 12 (fibonacci sayıları)\obj\Debug\proje_12__fibonacci_sayıları_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 12 (fibonacci sayıları)\proje 12 (fibonacci sayıları)\obj\Debug\proje_12__fibonacci_sayıları_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 12 (fibonacci sayıları)\proje 12 (fibonacci sayıları)\obj\Debug\proje 12 (fibonacci sayıları).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 12 (fibonacci sayıları)\proje 12 (fibonacci sayıları)\obj\Debug\proje 12 (fibonacci sayıları).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 12 (fibonacci sayıları)\proje 12 (fibonacci sayıları)\obj\Debug\proje 12 (fibonacci sayıları).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 12 (fibonacci sayıları)\proje 12 (fibonacci sayıları)\obj\Debug\proje 12 (fibonacci sayıları).pdb

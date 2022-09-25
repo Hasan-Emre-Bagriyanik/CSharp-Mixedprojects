@@ -1,0 +1,11 @@
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\proje 24 (zar oyunu)\proje 24 (zar oyunu)\bin\Debug\proje 24 (zar oyunu).exe.config
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\proje 24 (zar oyunu)\proje 24 (zar oyunu)\bin\Debug\proje 24 (zar oyunu).exe
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\proje 24 (zar oyunu)\proje 24 (zar oyunu)\bin\Debug\proje 24 (zar oyunu).pdb
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\proje 24 (zar oyunu)\proje 24 (zar oyunu)\obj\Debug\proje 24 (zar oyunu).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\proje 24 (zar oyunu)\proje 24 (zar oyunu)\obj\Debug\proje 24 (zar oyunu).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\proje 24 (zar oyunu)\proje 24 (zar oyunu)\obj\Debug\proje_24__zar_oyunu_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\proje 24 (zar oyunu)\proje 24 (zar oyunu)\obj\Debug\proje_24__zar_oyunu_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\proje 24 (zar oyunu)\proje 24 (zar oyunu)\obj\Debug\proje 24 (zar oyunu).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\proje 24 (zar oyunu)\proje 24 (zar oyunu)\obj\Debug\proje 24 (zar oyunu).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\proje 24 (zar oyunu)\proje 24 (zar oyunu)\obj\Debug\proje 24 (zar oyunu).exe
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\proje 24 (zar oyunu)\proje 24 (zar oyunu)\obj\Debug\proje 24 (zar oyunu).pdb

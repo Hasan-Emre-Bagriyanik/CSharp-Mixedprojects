@@ -1,0 +1,8 @@
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Bilgi Yarışması.exe.config
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Bilgi Yarışması.exe
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Bilgi Yarışması.pdb
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.exe
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.pdb

@@ -1,0 +1,11 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 13 (ygs puan hesaplama)\proje 13 (ygs puan hesaplama)\bin\Debug\proje 13 (ygs puan hesaplama).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 13 (ygs puan hesaplama)\proje 13 (ygs puan hesaplama)\bin\Debug\proje 13 (ygs puan hesaplama).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 13 (ygs puan hesaplama)\proje 13 (ygs puan hesaplama)\bin\Debug\proje 13 (ygs puan hesaplama).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 13 (ygs puan hesaplama)\proje 13 (ygs puan hesaplama)\obj\Debug\proje 13 (ygs puan hesaplama).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 13 (ygs puan hesaplama)\proje 13 (ygs puan hesaplama)\obj\Debug\proje 13 (ygs puan hesaplama).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 13 (ygs puan hesaplama)\proje 13 (ygs puan hesaplama)\obj\Debug\proje_13__ygs_puan_hesaplama_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 13 (ygs puan hesaplama)\proje 13 (ygs puan hesaplama)\obj\Debug\proje_13__ygs_puan_hesaplama_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 13 (ygs puan hesaplama)\proje 13 (ygs puan hesaplama)\obj\Debug\proje 13 (ygs puan hesaplama).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 13 (ygs puan hesaplama)\proje 13 (ygs puan hesaplama)\obj\Debug\proje 13 (ygs puan hesaplama).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 13 (ygs puan hesaplama)\proje 13 (ygs puan hesaplama)\obj\Debug\proje 13 (ygs puan hesaplama).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 13 (ygs puan hesaplama)\proje 13 (ygs puan hesaplama)\obj\Debug\proje 13 (ygs puan hesaplama).pdb

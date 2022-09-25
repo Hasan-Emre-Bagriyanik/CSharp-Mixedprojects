@@ -1,0 +1,11 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 3 (pizza evi)\proje 3 (pizza evi)\bin\Debug\proje 3 (pizza evi).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 3 (pizza evi)\proje 3 (pizza evi)\bin\Debug\proje 3 (pizza evi).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 3 (pizza evi)\proje 3 (pizza evi)\bin\Debug\proje 3 (pizza evi).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 3 (pizza evi)\proje 3 (pizza evi)\obj\Debug\proje 3 (pizza evi).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 3 (pizza evi)\proje 3 (pizza evi)\obj\Debug\proje 3 (pizza evi).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 3 (pizza evi)\proje 3 (pizza evi)\obj\Debug\proje_3__pizza_evi_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 3 (pizza evi)\proje 3 (pizza evi)\obj\Debug\proje_3__pizza_evi_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 3 (pizza evi)\proje 3 (pizza evi)\obj\Debug\proje 3 (pizza evi).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 3 (pizza evi)\proje 3 (pizza evi)\obj\Debug\proje 3 (pizza evi).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 3 (pizza evi)\proje 3 (pizza evi)\obj\Debug\proje 3 (pizza evi).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 3 (pizza evi)\proje 3 (pizza evi)\obj\Debug\proje 3 (pizza evi).pdb

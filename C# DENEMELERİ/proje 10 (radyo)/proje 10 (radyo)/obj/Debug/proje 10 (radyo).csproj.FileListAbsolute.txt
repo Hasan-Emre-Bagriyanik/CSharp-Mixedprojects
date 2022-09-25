@@ -1,0 +1,16 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 10 (radyo)\proje 10 (radyo)\bin\Debug\proje 10 (radyo).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 10 (radyo)\proje 10 (radyo)\bin\Debug\proje 10 (radyo).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 10 (radyo)\proje 10 (radyo)\bin\Debug\proje 10 (radyo).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 10 (radyo)\proje 10 (radyo)\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 10 (radyo)\proje 10 (radyo)\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 10 (radyo)\proje 10 (radyo)\obj\Debug\proje 10 (radyo).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 10 (radyo)\proje 10 (radyo)\obj\Debug\proje 10 (radyo).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 10 (radyo)\proje 10 (radyo)\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 10 (radyo)\proje 10 (radyo)\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 10 (radyo)\proje 10 (radyo)\obj\Debug\proje 10 (radyo).csproj.ResolveComReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 10 (radyo)\proje 10 (radyo)\obj\Debug\proje_10__radyo_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 10 (radyo)\proje 10 (radyo)\obj\Debug\proje_10__radyo_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 10 (radyo)\proje 10 (radyo)\obj\Debug\proje 10 (radyo).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 10 (radyo)\proje 10 (radyo)\obj\Debug\proje 10 (radyo).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 10 (radyo)\proje 10 (radyo)\obj\Debug\proje 10 (radyo).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 10 (radyo)\proje 10 (radyo)\obj\Debug\proje 10 (radyo).pdb

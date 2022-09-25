@@ -1,0 +1,11 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 15 (saniyeyi saat ve dakikaya çevirmek)\proje 15 (saniyeyi saat ve dakikaya çevirmek)\bin\Debug\proje 15 (saniyeyi saat ve dakikaya çevirmek).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 15 (saniyeyi saat ve dakikaya çevirmek)\proje 15 (saniyeyi saat ve dakikaya çevirmek)\bin\Debug\proje 15 (saniyeyi saat ve dakikaya çevirmek).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 15 (saniyeyi saat ve dakikaya çevirmek)\proje 15 (saniyeyi saat ve dakikaya çevirmek)\bin\Debug\proje 15 (saniyeyi saat ve dakikaya çevirmek).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 15 (saniyeyi saat ve dakikaya çevirmek)\proje 15 (saniyeyi saat ve dakikaya çevirmek)\obj\Debug\proje 15 (saniyeyi saat ve dakikaya çevirmek).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 15 (saniyeyi saat ve dakikaya çevirmek)\proje 15 (saniyeyi saat ve dakikaya çevirmek)\obj\Debug\proje 15 (saniyeyi saat ve dakikaya çevirmek).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 15 (saniyeyi saat ve dakikaya çevirmek)\proje 15 (saniyeyi saat ve dakikaya çevirmek)\obj\Debug\proje_15__saniyeyi_saat_ve_dakikaya_çevirmek_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 15 (saniyeyi saat ve dakikaya çevirmek)\proje 15 (saniyeyi saat ve dakikaya çevirmek)\obj\Debug\proje_15__saniyeyi_saat_ve_dakikaya_çevirmek_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 15 (saniyeyi saat ve dakikaya çevirmek)\proje 15 (saniyeyi saat ve dakikaya çevirmek)\obj\Debug\proje 15 (saniyeyi saat ve dakikaya çevirmek).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 15 (saniyeyi saat ve dakikaya çevirmek)\proje 15 (saniyeyi saat ve dakikaya çevirmek)\obj\Debug\proje 15 (saniyeyi saat ve dakikaya çevirmek).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 15 (saniyeyi saat ve dakikaya çevirmek)\proje 15 (saniyeyi saat ve dakikaya çevirmek)\obj\Debug\proje 15 (saniyeyi saat ve dakikaya çevirmek).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 15 (saniyeyi saat ve dakikaya çevirmek)\proje 15 (saniyeyi saat ve dakikaya çevirmek)\obj\Debug\proje 15 (saniyeyi saat ve dakikaya çevirmek).pdb

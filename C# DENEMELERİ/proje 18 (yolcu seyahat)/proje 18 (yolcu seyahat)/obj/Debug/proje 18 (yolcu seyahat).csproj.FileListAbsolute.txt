@@ -1,0 +1,20 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\bin\Debug\proje 18 (yolcu seyahat).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\bin\Debug\proje 18 (yolcu seyahat).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\bin\Debug\proje 18 (yolcu seyahat).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\obj\Debug\proje 18 (yolcu seyahat).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\obj\Debug\proje 18 (yolcu seyahat).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\obj\Debug\proje_18__yolcu_seyahat_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\obj\Debug\proje_18__yolcu_seyahat_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\obj\Debug\proje 18 (yolcu seyahat).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\obj\Debug\proje 18 (yolcu seyahat).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\obj\Debug\proje 18 (yolcu seyahat).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\obj\Debug\proje 18 (yolcu seyahat).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\obj\Debug\proje_18__yolcu_seyahat_.Form2.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\obj\Debug\proje 18 (yolcu seyahat).csproj.ResolveComReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\obj\Debug\proje_18__yolcu_seyahat_.Form3.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\obj\Debug\proje_18__yolcu_seyahat_.Form4.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 18 (yolcu seyahat)\proje 18 (yolcu seyahat)\obj\Debug\proje_18__yolcu_seyahat_.Form5.resources

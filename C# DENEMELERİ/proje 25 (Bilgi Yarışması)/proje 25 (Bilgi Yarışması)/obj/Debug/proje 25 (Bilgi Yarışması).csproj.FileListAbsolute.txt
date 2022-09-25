@@ -1,0 +1,11 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 25 (Bilgi Yarışması)\proje 25 (Bilgi Yarışması)\bin\Debug\proje 25 (Bilgi Yarışması).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 25 (Bilgi Yarışması)\proje 25 (Bilgi Yarışması)\bin\Debug\proje 25 (Bilgi Yarışması).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 25 (Bilgi Yarışması)\proje 25 (Bilgi Yarışması)\bin\Debug\proje 25 (Bilgi Yarışması).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 25 (Bilgi Yarışması)\proje 25 (Bilgi Yarışması)\obj\Debug\proje 25 (Bilgi Yarışması).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 25 (Bilgi Yarışması)\proje 25 (Bilgi Yarışması)\obj\Debug\proje 25 (Bilgi Yarışması).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 25 (Bilgi Yarışması)\proje 25 (Bilgi Yarışması)\obj\Debug\proje_25__Bilgi_Yarışması_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 25 (Bilgi Yarışması)\proje 25 (Bilgi Yarışması)\obj\Debug\proje_25__Bilgi_Yarışması_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 25 (Bilgi Yarışması)\proje 25 (Bilgi Yarışması)\obj\Debug\proje 25 (Bilgi Yarışması).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 25 (Bilgi Yarışması)\proje 25 (Bilgi Yarışması)\obj\Debug\proje 25 (Bilgi Yarışması).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 25 (Bilgi Yarışması)\proje 25 (Bilgi Yarışması)\obj\Debug\proje 25 (Bilgi Yarışması).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 25 (Bilgi Yarışması)\proje 25 (Bilgi Yarışması)\obj\Debug\proje 25 (Bilgi Yarışması).pdb

@@ -1,0 +1,15 @@
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\consola giris\consola giris\bin\Debug\net6.0\consola giris.exe
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\consola giris\consola giris\bin\Debug\net6.0\consola giris.deps.json
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\consola giris\consola giris\bin\Debug\net6.0\consola giris.runtimeconfig.json
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\consola giris\consola giris\bin\Debug\net6.0\consola giris.dll
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\consola giris\consola giris\bin\Debug\net6.0\consola giris.pdb
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\consola giris\consola giris\obj\Debug\net6.0\consola giris.csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\consola giris\consola giris\obj\Debug\net6.0\consola giris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\consola giris\consola giris\obj\Debug\net6.0\consola giris.AssemblyInfoInputs.cache
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\consola giris\consola giris\obj\Debug\net6.0\consola giris.AssemblyInfo.cs
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\consola giris\consola giris\obj\Debug\net6.0\consola giris.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\consola giris\consola giris\obj\Debug\net6.0\consola giris.dll
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\consola giris\consola giris\obj\Debug\net6.0\refint\consola giris.dll
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\consola giris\consola giris\obj\Debug\net6.0\consola giris.pdb
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\consola giris\consola giris\obj\Debug\net6.0\consola giris.genruntimeconfig.cache
+C:\Users\Hasan Emre\Documents\C# Consol Denemleri\consola giris\consola giris\obj\Debug\net6.0\ref\consola giris.dll

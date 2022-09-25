@@ -1,0 +1,11 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 23 (at yarışı oyunu)\proje 23 (at yarışı oyunu)\bin\Debug\proje 23 (at yarışı oyunu).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 23 (at yarışı oyunu)\proje 23 (at yarışı oyunu)\bin\Debug\proje 23 (at yarışı oyunu).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 23 (at yarışı oyunu)\proje 23 (at yarışı oyunu)\bin\Debug\proje 23 (at yarışı oyunu).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 23 (at yarışı oyunu)\proje 23 (at yarışı oyunu)\obj\Debug\proje 23 (at yarışı oyunu).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 23 (at yarışı oyunu)\proje 23 (at yarışı oyunu)\obj\Debug\proje 23 (at yarışı oyunu).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 23 (at yarışı oyunu)\proje 23 (at yarışı oyunu)\obj\Debug\proje_23__at_yarışı_oyunu_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 23 (at yarışı oyunu)\proje 23 (at yarışı oyunu)\obj\Debug\proje_23__at_yarışı_oyunu_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 23 (at yarışı oyunu)\proje 23 (at yarışı oyunu)\obj\Debug\proje 23 (at yarışı oyunu).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 23 (at yarışı oyunu)\proje 23 (at yarışı oyunu)\obj\Debug\proje 23 (at yarışı oyunu).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 23 (at yarışı oyunu)\proje 23 (at yarışı oyunu)\obj\Debug\proje 23 (at yarışı oyunu).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 23 (at yarışı oyunu)\proje 23 (at yarışı oyunu)\obj\Debug\proje 23 (at yarışı oyunu).pdb

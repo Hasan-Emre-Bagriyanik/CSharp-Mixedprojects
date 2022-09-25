@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proje 6 (ATM giriş ekranı)", "proje 6 (ATM giriş ekranı)\proje 6 (ATM giriş ekranı).csproj", "{2D99FDD0-63D5-4941-8A31-B8791C7EB06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D99FDD0-63D5-4941-8A31-B8791C7EB06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D99FDD0-63D5-4941-8A31-B8791C7EB06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D99FDD0-63D5-4941-8A31-B8791C7EB06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D99FDD0-63D5-4941-8A31-B8791C7EB06B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2C82BA8-CF1C-4D0E-9A94-044BB73CA09F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (ATM giriş ekranı)\proje 6 (ATM giriş ekranı)\bin\Debug\proje 6 (ATM giriş ekranı).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (ATM giriş ekranı)\proje 6 (ATM giriş ekranı)\bin\Debug\proje 6 (ATM giriş ekranı).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (ATM giriş ekranı)\proje 6 (ATM giriş ekranı)\bin\Debug\proje 6 (ATM giriş ekranı).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (ATM giriş ekranı)\proje 6 (ATM giriş ekranı)\obj\Debug\proje 6 (ATM giriş ekranı).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (ATM giriş ekranı)\proje 6 (ATM giriş ekranı)\obj\Debug\proje 6 (ATM giriş ekranı).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (ATM giriş ekranı)\proje 6 (ATM giriş ekranı)\obj\Debug\proje_6__ATM_giriş_ekranı_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (ATM giriş ekranı)\proje 6 (ATM giriş ekranı)\obj\Debug\proje_6__ATM_giriş_ekranı_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (ATM giriş ekranı)\proje 6 (ATM giriş ekranı)\obj\Debug\proje 6 (ATM giriş ekranı).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (ATM giriş ekranı)\proje 6 (ATM giriş ekranı)\obj\Debug\proje 6 (ATM giriş ekranı).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (ATM giriş ekranı)\proje 6 (ATM giriş ekranı)\obj\Debug\proje 6 (ATM giriş ekranı).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (ATM giriş ekranı)\proje 6 (ATM giriş ekranı)\obj\Debug\proje 6 (ATM giriş ekranı).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (giriş ekranı renk seçimi)\proje 6 (ATM giriş ekranı)\bin\Debug\proje 6 (ATM giriş ekranı).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (giriş ekranı renk seçimi)\proje 6 (ATM giriş ekranı)\bin\Debug\proje 6 (ATM giriş ekranı).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (giriş ekranı renk seçimi)\proje 6 (ATM giriş ekranı)\bin\Debug\proje 6 (ATM giriş ekranı).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (giriş ekranı renk seçimi)\proje 6 (ATM giriş ekranı)\obj\Debug\proje 6 (ATM giriş ekranı).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (giriş ekranı renk seçimi)\proje 6 (ATM giriş ekranı)\obj\Debug\proje 6 (ATM giriş ekranı).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (giriş ekranı renk seçimi)\proje 6 (ATM giriş ekranı)\obj\Debug\proje_6__ATM_giriş_ekranı_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (giriş ekranı renk seçimi)\proje 6 (ATM giriş ekranı)\obj\Debug\proje_6__ATM_giriş_ekranı_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (giriş ekranı renk seçimi)\proje 6 (ATM giriş ekranı)\obj\Debug\proje 6 (ATM giriş ekranı).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (giriş ekranı renk seçimi)\proje 6 (ATM giriş ekranı)\obj\Debug\proje 6 (ATM giriş ekranı).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (giriş ekranı renk seçimi)\proje 6 (ATM giriş ekranı)\obj\Debug\proje 6 (ATM giriş ekranı).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (giriş ekranı renk seçimi)\proje 6 (ATM giriş ekranı)\obj\Debug\proje 6 (ATM giriş ekranı).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 6 (giriş ekranı renk seçimi)\proje 6 (ATM giriş ekranı)\obj\Debug\proje_6__ATM_giriş_ekranı_.Form3.resources

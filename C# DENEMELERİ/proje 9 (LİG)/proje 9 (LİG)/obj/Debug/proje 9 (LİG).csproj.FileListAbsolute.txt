@@ -1,0 +1,12 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 9 (LİG)\proje 9 (LİG)\bin\Debug\proje 9 (LİG).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 9 (LİG)\proje 9 (LİG)\bin\Debug\proje 9 (LİG).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 9 (LİG)\proje 9 (LİG)\bin\Debug\proje 9 (LİG).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 9 (LİG)\proje 9 (LİG)\obj\Debug\proje 9 (LİG).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 9 (LİG)\proje 9 (LİG)\obj\Debug\proje 9 (LİG).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 9 (LİG)\proje 9 (LİG)\obj\Debug\proje_9__LİG_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 9 (LİG)\proje 9 (LİG)\obj\Debug\proje_9__LİG_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 9 (LİG)\proje 9 (LİG)\obj\Debug\proje 9 (LİG).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 9 (LİG)\proje 9 (LİG)\obj\Debug\proje 9 (LİG).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 9 (LİG)\proje 9 (LİG)\obj\Debug\proje 9 (LİG).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 9 (LİG)\proje 9 (LİG)\obj\Debug\proje 9 (LİG).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 9 (LİG)\proje 9 (LİG)\obj\Debug\proje_9__LİG_.Form2.resources

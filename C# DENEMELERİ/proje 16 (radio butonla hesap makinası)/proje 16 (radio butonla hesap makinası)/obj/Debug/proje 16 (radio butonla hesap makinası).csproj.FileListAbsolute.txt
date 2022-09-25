@@ -1,0 +1,11 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 16 (radio butonla hesap makinası)\proje 16 (radio butonla hesap makinası)\bin\Debug\proje 16 (radio butonla hesap makinası).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 16 (radio butonla hesap makinası)\proje 16 (radio butonla hesap makinası)\bin\Debug\proje 16 (radio butonla hesap makinası).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 16 (radio butonla hesap makinası)\proje 16 (radio butonla hesap makinası)\bin\Debug\proje 16 (radio butonla hesap makinası).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 16 (radio butonla hesap makinası)\proje 16 (radio butonla hesap makinası)\obj\Debug\proje 16 (radio butonla hesap makinası).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 16 (radio butonla hesap makinası)\proje 16 (radio butonla hesap makinası)\obj\Debug\proje 16 (radio butonla hesap makinası).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 16 (radio butonla hesap makinası)\proje 16 (radio butonla hesap makinası)\obj\Debug\proje_16__radio_butonla_hesap_makinası_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 16 (radio butonla hesap makinası)\proje 16 (radio butonla hesap makinası)\obj\Debug\proje_16__radio_butonla_hesap_makinası_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 16 (radio butonla hesap makinası)\proje 16 (radio butonla hesap makinası)\obj\Debug\proje 16 (radio butonla hesap makinası).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 16 (radio butonla hesap makinası)\proje 16 (radio butonla hesap makinası)\obj\Debug\proje 16 (radio butonla hesap makinası).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 16 (radio butonla hesap makinası)\proje 16 (radio butonla hesap makinası)\obj\Debug\proje 16 (radio butonla hesap makinası).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 16 (radio butonla hesap makinası)\proje 16 (radio butonla hesap makinası)\obj\Debug\proje 16 (radio butonla hesap makinası).pdb

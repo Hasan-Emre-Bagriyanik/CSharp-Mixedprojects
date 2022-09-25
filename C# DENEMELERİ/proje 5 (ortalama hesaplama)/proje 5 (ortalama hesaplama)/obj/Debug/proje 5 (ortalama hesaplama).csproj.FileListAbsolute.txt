@@ -1,0 +1,11 @@
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 5 (ortalama hesaplama)\proje 5 (ortalama hesaplama)\obj\Debug\proje 5 (ortalama hesaplama).csproj.AssemblyReference.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 5 (ortalama hesaplama)\proje 5 (ortalama hesaplama)\obj\Debug\proje 5 (ortalama hesaplama).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 5 (ortalama hesaplama)\proje 5 (ortalama hesaplama)\obj\Debug\proje_5__ortalama_hesaplama_.Form1.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 5 (ortalama hesaplama)\proje 5 (ortalama hesaplama)\obj\Debug\proje_5__ortalama_hesaplama_.Properties.Resources.resources
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 5 (ortalama hesaplama)\proje 5 (ortalama hesaplama)\obj\Debug\proje 5 (ortalama hesaplama).csproj.GenerateResource.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 5 (ortalama hesaplama)\proje 5 (ortalama hesaplama)\obj\Debug\proje 5 (ortalama hesaplama).csproj.CoreCompileInputs.cache
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 5 (ortalama hesaplama)\proje 5 (ortalama hesaplama)\bin\Debug\proje 5 (ortalama hesaplama).exe.config
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 5 (ortalama hesaplama)\proje 5 (ortalama hesaplama)\bin\Debug\proje 5 (ortalama hesaplama).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 5 (ortalama hesaplama)\proje 5 (ortalama hesaplama)\bin\Debug\proje 5 (ortalama hesaplama).pdb
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 5 (ortalama hesaplama)\proje 5 (ortalama hesaplama)\obj\Debug\proje 5 (ortalama hesaplama).exe
+C:\Users\Hasan Emre\Documents\C# DENEMELERİ\proje 5 (ortalama hesaplama)\proje 5 (ortalama hesaplama)\obj\Debug\proje 5 (ortalama hesaplama).pdb
